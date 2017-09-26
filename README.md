@@ -11,3 +11,6 @@ simple login with Docker file
 
 # For display the login page 
 - /login.php
+
+# For the database
+-Import (login.sql) in your database
